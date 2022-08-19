@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "p1": "Bot",
+      "p2": "Bot",
+      "turns": 5,
+      "id": 1
+    },
+    {
+      "p1": "fasd",
+      "p2": "hsavcns",
+      "turns": 8,
+      "id": 2
+    },
+    {
+      "p1": "fgag",
+      "p2": "hdjsf",
+      "turns": 6,
+      "id": 3
+    }
+  ]
+}
